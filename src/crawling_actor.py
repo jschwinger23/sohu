@@ -43,6 +43,7 @@ class CrawlingActor(Actor):
             message = '{url} [Unknown Error within fetching html]'.format(url=task)
 
         else:
+            # 没有异常的情况下就会运行到这里，向parsing_actor发送新任务
             message = '{task} [ok]'.format(task=task)
             logging.info(message)
             self.parsing_actor.send(resp.content)

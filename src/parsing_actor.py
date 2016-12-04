@@ -43,6 +43,7 @@ class ParsingActor(Actor):
             if self._is_checked(path):
                 continue 
 
+            # 将链接发送给crawling_actor的任务队列
             self.crawling_actor.send(path)
 
     def _encode(self, path):
@@ -59,11 +60,19 @@ class ParsingActor(Actor):
         raise NotImplementedError
 
     def _normal(self, path):
+        '''
+        将连接的查询部分与标签部分删除
+        '''
+
         path, _ = urllib.splittag(path)
         path, _ = urllib.splitquery(path)
         return path
 
     def _is_checked(self, path):
+        '''
+        判断是否已访问过此url，避免重复访问
+        '''
+
         with self.path_pool_lock:
             if path in self.path_pool:
                 return True

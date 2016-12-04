@@ -1,4 +1,6 @@
-###Sohu
+##Sohu
+
+
 采用Actor模式来进行多线程爬虫，分为CrawlingActor和ParsingActor两个模式，维护了两个线程安全队列进行线程间通信。
 
 #### 依赖
