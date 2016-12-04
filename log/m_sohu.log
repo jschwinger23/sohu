@@ -1,0 +1,188 @@
+2016-12-04 15:42:51,117 ERROR /f/CQSJZL/?v=3&_once_=000133_detail_193_iosyw&_fc_=cqh5 [ConnectionError]
+2016-12-04 15:42:51,118 ERROR /n/474875269/?wscrid=1137_19 [ConnectionError]
+2016-12-04 15:42:51,119 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,130 ERROR /f/6bEFbea/?_once_=000070_hao123_xw1_v3&wscrid=93495_1 [ConnectionError]
+2016-12-04 15:42:51,131 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,132 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,136 INFO /n/557064165/?wscrid=1137_13 [ok]
+2016-12-04 15:42:51,137 INFO /n/474861476/?wscrid=1137_18 [ok]
+2016-12-04 15:42:51,140 INFO /c/23/?wscrid=1137_15 [ok]
+2016-12-04 15:42:51,142 INFO /n/474880327/?wscrid=1137_16 [ok]
+2016-12-04 15:42:51,143 INFO /n/474881523/?wscrid=1137_8 [ok]
+2016-12-04 15:42:51,144 INFO /p/10135871/?wscrid=1137_17 [ok]
+2016-12-04 15:42:51,145 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,146 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,148 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,149 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,150 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,151 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,208 INFO Starting new HTTP connection (1): s.m.sohu.com
+2016-12-04 15:42:51,235 INFO /c/22/?_once_=000025_xiaodaohang_caijing_3v3 [ok]
+2016-12-04 15:42:51,236 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,258 INFO /c/18159/?_once_=000088_news [ok]
+2016-12-04 15:42:51,260 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,276 INFO /f/M3MZNba/?_once_=000025_xiaodaohang_caijing_4v3 [ok]
+2016-12-04 15:42:51,278 INFO /n/557064172/?wscrid=1140_3 [ok]
+2016-12-04 15:42:51,279 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,283 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,344 INFO /n/557064166/?wscrid=1140_4 [ok]
+2016-12-04 15:42:51,346 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,364 INFO /n/557064175/?wscrid=1140_6 [ok]
+2016-12-04 15:42:51,366 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,397 INFO /n/557064181/?wscrid=1140_7 [ok]
+2016-12-04 15:42:51,398 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,408 INFO /n/557064178/?wscrid=1140_1 [ok]
+2016-12-04 15:42:51,409 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,440 INFO /c/5/?_once_=000025_xiaodaohang_caijing_1v3 [ok]
+2016-12-04 15:42:51,441 INFO /n/557064106/?wscrid=1140_9 [ok]
+2016-12-04 15:42:51,447 INFO /c/103/?_once_=000025_xiaodaohang_caijing_2v3 [ok]
+2016-12-04 15:42:51,448 INFO /c/5/?_once_=000088_finance [ok]
+2016-12-04 15:42:51,449 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,451 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,452 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,453 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,458 INFO /n/474864834/?wscrid=1140_2 [ok]
+2016-12-04 15:42:51,459 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,460 INFO /n/557064105/?wscrid=1140_8 [ok]
+2016-12-04 15:42:51,461 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,463 INFO /n/557064104/?wscrid=1140_5 [ok]
+2016-12-04 15:42:51,464 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,484 INFO /c/284/?_once_=000025_xiaodaohang_yule_2v3 [ok]
+2016-12-04 15:42:51,487 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,544 INFO /p/10135842/?wscrid=24820_1 [ok]
+2016-12-04 15:42:51,545 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,549 INFO /p/10135855/?wscrid=1142_2 [ok]
+2016-12-04 15:42:51,550 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,562 INFO /c/10/?_once_=000025_xiaodaohang_yule_4v3 [ok]
+2016-12-04 15:42:51,566 INFO /p/10135872/?wscrid=1142_4 [ok]
+2016-12-04 15:42:51,570 INFO /p/10135874/?wscrid=1142_1 [ok]
+2016-12-04 15:42:51,571 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,573 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,574 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,577 INFO /p/10135853/?wscrid=1142_3 [ok]
+2016-12-04 15:42:51,579 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,598 INFO /p/10135873/?wscrid=1142_5 [ok]
+2016-12-04 15:42:51,599 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,613 INFO /c/290/?_once_=000025_xiaodaohang_yule_3v3 [ok]
+2016-12-04 15:42:51,615 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,658 INFO /c/4/?_once_=000025_xiaodaohang_yule_1v3 [ok]
+2016-12-04 15:42:51,659 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,669 INFO /p/10135854/?wscrid=24820_2 [ok]
+2016-12-04 15:42:51,670 INFO /p/10135862/?wscrid=1142_7 [ok]
+2016-12-04 15:42:51,670 INFO /c/4/?_once_=000088_ent [ok]
+2016-12-04 15:42:51,671 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,672 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,673 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,712 INFO /c/24/?_once_=000025_xiaodaohang_tiyu_2v3 [ok]
+2016-12-04 15:42:51,713 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,804 INFO /n/474879043/?wscrid=1144_1 [ok]
+2016-12-04 15:42:51,808 INFO /n/474872539/?wscrid=1144_3 [ok]
+2016-12-04 15:42:51,808 INFO /p/767718/?wscrid=24885_2 [ok]
+2016-12-04 15:42:51,809 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,810 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,811 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,849 INFO /p/767767/?wscrid=24885_1 [ok]
+2016-12-04 15:42:51,850 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,876 INFO /p/10135861/?wscrid=1142_6 [ok]
+2016-12-04 15:42:51,877 INFO /n/474872094/?wscrid=1144_4 [ok]
+2016-12-04 15:42:51,877 INFO /n/474871672/?wscrid=1144_5 [ok]
+2016-12-04 15:42:51,878 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,880 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,881 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,904 INFO /c/82/?_once_=000025_xiaodaohang_tiyu_3v3 [ok]
+2016-12-04 15:42:51,905 INFO /c/3/?_once_=000025_xiaodaohang_tiyu_1v3 [ok]
+2016-12-04 15:42:51,906 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,907 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,933 INFO /c/3/?_once_=000088_sports [ok]
+2016-12-04 15:42:51,934 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,954 INFO /cl/483/?_once_=000025_xiaodaohang_junshi_3v3 [ok]
+2016-12-04 15:42:51,955 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,960 INFO /n/474879348/?wscrid=1144_7 [ok]
+2016-12-04 15:42:51,961 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:51,969 INFO /n/474864548/?wscrid=1144_6 [ok]
+2016-12-04 15:42:51,970 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,008 INFO /p/10135859/?wscrid=43466_1 [ok]
+2016-12-04 15:42:52,010 INFO /c/8/?_once_=000025_xiaodaohang_junshi_1v3 [ok]
+2016-12-04 15:42:52,011 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,016 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,050 INFO /p/10135858/?wscrid=43466_2 [ok]
+2016-12-04 15:42:52,052 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,080 INFO /n/474874692/?wscrid=1144_2 [ok]
+2016-12-04 15:42:52,084 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,090 INFO /c/10/?_once_=000025_xiaodaohang_junshi_4v3 [ok]
+2016-12-04 15:42:52,092 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,111 INFO /c/28/?_once_=000025_top_caipiao_v3&wscrid=79614_1 [ok]
+2016-12-04 15:42:52,112 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,116 INFO /n/557064164/?wscrid=1150_3 [ok]
+2016-12-04 15:42:52,117 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,131 INFO /n/557064179/?wscrid=1150_2 [ok]
+2016-12-04 15:42:52,132 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,197 INFO /n/557064204/?wscrid=1150_1 [ok]
+2016-12-04 15:42:52,198 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,203 INFO /n/557064174/?wscrid=1150_4 [ok]
+2016-12-04 15:42:52,210 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,212 INFO /n/557064118/?wscrid=1150_6 [ok]
+2016-12-04 15:42:52,213 INFO /n/557064200/?wscrid=1150_7 [ok]
+2016-12-04 15:42:52,214 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,216 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,236 INFO /c/8/?_once_=000088_mil [ok]
+2016-12-04 15:42:52,239 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,248 INFO /n/557064173/?wscrid=1150_9 [ok]
+2016-12-04 15:42:52,249 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,273 INFO /n/557064167/?wscrid=1150_8 [ok]
+2016-12-04 15:42:52,278 INFO /cl/8/?_once_=000025_xiaodaohang_junshi_2v3 [ok]
+2016-12-04 15:42:52,280 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,280 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,286 INFO /n/557064119/?wscrid=1150_10 [ok]
+2016-12-04 15:42:52,287 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,308 INFO /c/10/?_once_=000025_xiaodaohang_lishi_4v3 [ok]
+2016-12-04 15:42:52,309 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,337 INFO /c/5100/?_once_=000025_xiaodaohang_lishi_1v3 [ok]
+2016-12-04 15:42:52,338 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,347 INFO /p/10135860/?wscrid=46669_1 [ok]
+2016-12-04 15:42:52,349 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:42:52,354 INFO /p/10135863/?wscrid=46669_2 [ok]
+2016-12-04 15:42:52,355 INFO Starting new HTTP connection (1): m.sohu.com
+2016-12-04 15:43:12,879 ERROR 
+
+
+			<!-- 默认版本  0508-->
+				
+						
+			 [Unknown Error within parsing html
+2016-12-04 15:43:13,130 ERROR 
+
+
+			<!-- 默认版本  0508-->
+				
+						
+			 [Unknown Error within parsing html
+2016-12-04 15:43:13,264 ERROR /f/yy6F3ea/?_once_=000025_topdh_fl_5_4 [Unsuccessful status_code 404]
+2016-12-04 15:43:13,771 ERROR /f/Qbeyiya/?_once_=000025_topdh_fl_9_1 [ConnectionError]
+2016-12-04 15:43:51,557 ERROR /j.php?tn=sohu06&z=1&ver=2_android&idfrom=&page=n_middlepage&pos=djtj&qt=tz&url=http%3A%2F%2Fm.hao123.com%2Fm%2Freci%3Fz%3D2%26set%3D1&key=f262c475cb38837d503bd264e6932a39&tn=sohu06&level=2&ver=2_android&idfrom=&page=n_middlepage&pos=djtj&page=n_middlepage&idfrom=qd_zx [ConnectionError]
+2016-12-04 15:43:51,558 ERROR /j.php?tn=sohu06&z=1&ver=2_android&idfrom=&page=n_middlepage&pos=djtj&qt=tz&url=http%3A%2F%2Fm.hao123.com%2Fm%2Fbzsy%3Fz%3D2%26set%3D1&key=d879d8f13047b59fc04dd1c77536e3ab&tn=sohu06&level=2&ver=2_android&idfrom=&page=n_middlepage&pos=djtj&page=n_middlepage&idfrom=qd_zx [ConnectionError]
+2016-12-04 15:45:20,670 ERROR /f/6JFz2ia/?_once_=000025_topdh_fl_6_2 [ConnectionError]
+2016-12-04 15:45:21,182 ERROR /f/EfeIZna/?_once_=000025_topdh_fl_11_3 [ConnectionError]
+2016-12-04 15:46:10,210 ERROR /cl/145/ [ConnectionError]
+2016-12-04 15:46:18,152 ERROR /f/yy6F3ea/ [Unsuccessful status_code 404]
+2016-12-04 15:46:18,580 ERROR /f/Qbeyiya/ [ConnectionError]
+2016-12-04 15:47:17,615 ERROR /f/521204/ [Unsuccessful status_code 404]
+2016-12-04 15:47:18,168 ERROR /f/Yvuiuaa/ [Unsuccessful status_code 404]
+2016-12-04 15:47:18,190 ERROR /f/6bayAfa/ [ConnectionError]
+2016-12-04 15:47:18,210 ERROR /f/YJVJBba/ [Unsuccessful status_code 404]
+2016-12-04 15:47:55,558 ERROR /weather/citylist [Unsuccessful status_code 400]
+2016-12-04 15:47:55,658 ERROR /f/Vb2Qzya/ [ConnectionError]
+2016-12-04 15:47:55,769 ERROR /f/buyiIja/ [Unsuccessful status_code 404]
+2016-12-04 15:47:55,801 ERROR /f/7Bbiyia/ [ConnectionError]
+2016-12-04 15:48:25,374 ERROR /f/6JFz2ia/ [ConnectionError]
+2016-12-04 15:48:26,014 ERROR /f/EfeIZna/ [ConnectionError]
+2016-12-04 15:50:11,677 ERROR 
+                                     [Unknown Error within parsing html
+2016-12-04 15:52:46,653 ERROR  [Unknown Error within parsing html
+2016-12-04 15:54:36,450 ERROR /n/500002647/ [ConnectionError]
+2016-12-04 15:54:36,462 ERROR /n/500002648/ [ConnectionError]
+2016-12-04 15:54:36,543 ERROR /zhibo/live.action [ConnectionError]
+2016-12-04 15:55:23,181 ERROR /n/556273419/ [ConnectionError]
+2016-12-04 15:55:53,336 ERROR /n/500002468/ [ConnectionError]
+2016-12-04 15:56:14,729 ERROR  [Unknown Error within parsing html
+2016-12-04 15:57:20,226 ERROR /n/500002467/ [ConnectionError]
